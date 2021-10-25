@@ -1,3 +1,6 @@
+# Comandos
+npm i create-react-app axios react-router react-router-dom react-rating-stars-component
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
