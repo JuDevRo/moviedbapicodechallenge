@@ -1,0 +1,13 @@
+.container{
+    display: inline-block;
+}
+
+.container-div_h1{
+    font-size: 16px;
+}
+
+.container-img{
+    width: 150px;
+    height: 225px;
+    margin: 5px;
+}

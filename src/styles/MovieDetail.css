@@ -1,0 +1,8 @@
+.data{
+    font-size: 16px;
+}
+
+.container{
+    max-width: 500px;
+    text-align: justify;
+}

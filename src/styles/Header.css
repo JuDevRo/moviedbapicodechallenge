@@ -1,0 +1,12 @@
+.color{
+    background-color: gray;
+}
+
+.container{
+    text-align: left;
+}
+
+.container-title{
+    display: inline;
+    align-content: left;
+}
